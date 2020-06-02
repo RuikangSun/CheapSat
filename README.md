@@ -9,3 +9,5 @@
 
 欢迎关注我用来发布视频信息的B站UP主：
 ![image](https://github.com/RuikangSun/CheapSat/blob/master/bilibili.webp)
+
+两个平台的名字均为“生化环材”，如果上面的二维码不显示的话，也可以通过搜索找到。
