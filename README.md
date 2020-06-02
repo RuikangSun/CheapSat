@@ -5,7 +5,7 @@
 
 
 欢迎关注我用来发布文字信息的公众号：
-![image](https://github.com/RuikangSun/CheapSat/blob/master/WeChat.png)
+![image](https://github.com/RuikangSun/CheapSat/blob/master/WeChat.webp)
 
 欢迎关注我用来发布视频信息的B站UP主：
-![image](https://github.com/RuikangSun/CheapSat/blob/master/bilibili.png)
+![image](https://github.com/RuikangSun/CheapSat/blob/master/bilibili.webp)
